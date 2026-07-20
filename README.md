@@ -220,3 +220,10 @@ DevOps Engineer | Cloud Engineer
 - Git & GitHub
 - CI/CD
 - Infrastructure as Code
+
+
+# Author
+
+**Seyi Akinmusere**
+
+DevOps | Cloud Engineer | AWS | Terraform | Jenkins | Docker | Kubernetes
